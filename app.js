@@ -19,7 +19,7 @@ btn1.addEventListener("click", function(){
 		tg.MainButton.hide();
 	}
 	else {
-		tg.MainButton.setText("Вы выбрали товар 1!");
+		tg.MainButton.setText("Вы выбрали Бастурму!");
 		item = "1";
 		tg.MainButton.show();
 	}
@@ -30,7 +30,7 @@ btn2.addEventListener("click", function(){
 		tg.MainButton.hide();
 	}
 	else {
-		tg.MainButton.setText("Вы выбрали товар 2!");
+		tg.MainButton.setText("Вы выбрали Коппа!");
 		item = "2";
 		tg.MainButton.show();
 	}
@@ -41,7 +41,7 @@ btn3.addEventListener("click", function(){
 		tg.MainButton.hide();
 	}
 	else {
-		tg.MainButton.setText("Вы выбрали товар 3!");
+		tg.MainButton.setText("Вы выбрали Утиная грудка!");
 		item = "3";
 		tg.MainButton.show();
 	}
@@ -52,7 +52,7 @@ btn4.addEventListener("click", function(){
 		tg.MainButton.hide();
 	}
 	else {
-		tg.MainButton.setText("Вы выбрали товар 4!");
+		tg.MainButton.setText("Вы выбрали Брезаола!");
 		item = "4";
 		tg.MainButton.show();
 	}
@@ -63,7 +63,7 @@ btn5.addEventListener("click", function(){
 		tg.MainButton.hide();
 	}
 	else {
-		tg.MainButton.setText("Вы выбрали товар 5!");
+		tg.MainButton.setText("Вы выбрали Бедро индейки!");
 		item = "5";
 		tg.MainButton.show();
 	}
@@ -74,7 +74,7 @@ btn6.addEventListener("click", function(){
 		tg.MainButton.hide();
 	}
 	else {
-		tg.MainButton.setText("Вы выбрали товар 6!");
+		tg.MainButton.setText("Вы выбрали Казы!");
 		item = "6";
 		tg.MainButton.show();
 	}
